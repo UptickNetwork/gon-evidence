@@ -34,6 +34,7 @@ Examples
 
 Additionally, participants must not modify the `evidence.xlsx` files of other participants. Any attempts to do so will result in disqualification. Furthermore, participants should avoid causing merge conflicts and can only add new content to their own `{USERNAME}/evidence.xlsx` files.
 
+
 ## Task Evidence Submission
 
 During the testing, participants are required to add task evidence into their own Info sheet in the `evidence.xlsx` file and then submit PRs to `gon-evidence` for verification and scoring.
