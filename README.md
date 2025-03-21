@@ -43,6 +43,7 @@ To ensure the integrity of the process, we will guide participants through the t
 
 More details will be coming soon...
 
+
 ## Bug Submission
 
 Coming soon...
